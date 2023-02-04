@@ -7,4 +7,6 @@ The project was built using Microsoft Visual Studio and uses the .NET framework.
 
 Feel free to explore the code and try out the program.
 
+
+Here is an image of the form:
 ![Untitled](https://user-images.githubusercontent.com/91182988/216748865-277ebf44-b630-4d80-8985-79303c71030f.png)
