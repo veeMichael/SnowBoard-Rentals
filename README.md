@@ -6,3 +6,5 @@ The project takes input from the user on the number of snowboards rented with or
 The project was built using Microsoft Visual Studio and uses the .NET framework. The code is written in C# and follows good coding practices and techniques.
 
 Feel free to explore the code and try out the program.
+
+![Untitled](https://user-images.githubusercontent.com/91182988/216748865-277ebf44-b630-4d80-8985-79303c71030f.png)
