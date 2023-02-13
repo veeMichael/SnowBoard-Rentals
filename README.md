@@ -1,4 +1,4 @@
-C# Windows Forms Project
+# C# Windows Forms Project (SnowBoard Rentals)
 
 This project was created as part of a C# class homework assignment. It is a simple cost calculator for snowboard rentals that demonstrates the use of Windows Forms, variables, event handlers and functions.
 
